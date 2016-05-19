@@ -1,0 +1,29 @@
+{
+    "AS_Image_9166f653110e4f34aeeb2423e652c26d": {
+        "id": "AS_Image_9166f653110e4f34aeeb2423e652c26d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e1ea8388309f4acf81ab18ada841acb7"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__099c7ea3d7814881b813f4c5ce619aec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Amazon is clicked\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Image_ac37104f19f64b66a71b5477025a52ed": {
+        "id": "AS_Image_ac37104f19f64b66a71b5477025a52ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e1ea8388309f4acf81ab18ada841acb7"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___30c6f6ba3ece45a2a0811565ffc84918",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animate",
+            "display": "animate",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

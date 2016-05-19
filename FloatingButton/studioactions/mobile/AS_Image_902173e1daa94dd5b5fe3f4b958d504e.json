@@ -1,0 +1,29 @@
+{
+    "AS_Image_902173e1daa94dd5b5fe3f4b958d504e": {
+        "id": "AS_Image_902173e1daa94dd5b5fe3f4b958d504e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e1ea8388309f4acf81ab18ada841acb7"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__01e9ccfd1fb149208bf31e3a727b72f3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"LinkedIn is clicked\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
