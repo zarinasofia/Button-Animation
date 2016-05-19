@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "14%"
+        "value": "15%"
     },
     "_left_": {
         "type": "string",
@@ -31,14 +31,14 @@
     },
     "_width_": {
         "type": "string",
-        "value": "84%"
+        "value": "88%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
         "formID": "frmHome",
-        "platform": "android",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
